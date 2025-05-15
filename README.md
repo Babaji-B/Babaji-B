@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Babaji Byri</h1>
 <h3 align="center">A passionate Data Scientist from India</h3>
 
-- 🔭 I’m currently working on **Langchain**
+- 🔭 I’m currently working as a **Data Science Intern**
 
 - 🌱 I’m currently learning **Langchain**
 
